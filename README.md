@@ -82,6 +82,9 @@ The following visualizations were created:
 * Count Plots
 
 ---
+## Power BI Dashboard
+
+![Dashboard](PowerBI/Dashboard.png)
 
 ## Key Insights
 
