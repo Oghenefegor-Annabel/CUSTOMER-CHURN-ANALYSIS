@@ -2,7 +2,7 @@
 -- 1. What are the total amount of customers
 select count(*)
 from telco_customer_churn;
---- 7032
+-- 7032
 
 -- 2. What is the churn rate
 select Churn,
